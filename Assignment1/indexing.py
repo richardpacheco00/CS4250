@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Richard Pacheco
+# FILENAME: indexing.py
+# SPECIFICATION: analyzes an input file 'collection.csv' and creates a tf-idf table for the words after pruning it of extraneous terms
 # FOR: CS 4250- Assignment #1
 # TIME SPENT: 2 hours (for the coding segment)
 #-----------------------------------------------------------*/
